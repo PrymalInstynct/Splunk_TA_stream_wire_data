@@ -1,0 +1,95 @@
+{
+  "version": "1.0",
+  "date": "2024-06-05T14:08:08.395015813Z",
+  "hashAlgorithm": "SHA-256",
+  "app": {
+    "id": 5234,
+    "version": "8.1.3",
+    "files": [
+      {
+        "path": "default/distsearch.conf",
+        "hash": "f75f9a211b3af36ec7055afc82823157f7e4361f3086ddb3b11cd5afc6d2d510"
+      },
+      {
+        "path": "default/eventtypes.conf",
+        "hash": "8181fcef5e42c20cd31f4f9b59f51a483e45d807aa964afbf52b85b34ebc52bc"
+      },
+      {
+        "path": "default/props.conf",
+        "hash": "e969e6972318c4c0d4720ad30c074edfae6c635e04b4e1c6366553742453d519"
+      },
+      {
+        "path": "default/tags.conf",
+        "hash": "0b3d4c0a935d3a297e574b725d2151fceeb068b87498fc2e5207d46aa25bf946"
+      },
+      {
+        "path": "default/transforms.conf",
+        "hash": "6966e42025d3cb5931660dc616a46fe31fbf40d3d30d8e94de6b2e34f508888b"
+      },
+      {
+        "path": "default/app.conf",
+        "hash": "7cc9b338ad52e9c746b0e4e6272f90ba7a99e581f7a4238b929e319261eb2140"
+      },
+      {
+        "path": "lookups/stream_app_lookup.csv",
+        "hash": "8168f8c671edc5171e4887aff0bb0494e783b3dd99018090f3c0d10dd6a9dd4b"
+      },
+      {
+        "path": "metadata/default.meta",
+        "hash": "8e0c1f78b2c3e4414fa4f50f758b886f74570c880cd91f0b12cd1dba251aa8ea"
+      },
+      {
+        "path": "LICENSE.txt",
+        "hash": "f0125f2731bc60792d5b67c95af7dc1f086a32ca3c8a6514b8e8031ae37aadcb"
+      }
+    ]
+  },
+  "products": [
+    {
+      "platform": "splunk",
+      "product": "enterprise",
+      "versions": [
+        "8.0",
+        "8.1",
+        "8.2",
+        "9.0",
+        "9.1",
+        "9.2"
+      ],
+      "architectures": [
+        "x86_64"
+      ],
+      "operatingSystems": [
+        "windows",
+        "linux",
+        "macos",
+        "freebsd",
+        "solaris",
+        "aix"
+      ]
+    },
+    {
+      "platform": "splunk",
+      "product": "cloud",
+      "versions": [
+        "8.0",
+        "8.1",
+        "8.2",
+        "9.0",
+        "9.1",
+        "9.2"
+      ],
+      "architectures": [
+        "x86_64"
+      ],
+      "operatingSystems": [
+        "windows",
+        "linux",
+        "macos",
+        "freebsd",
+        "solaris",
+        "aix"
+      ]
+    }
+  ]
+}
